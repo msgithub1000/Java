@@ -1,0 +1,26 @@
+
+192.168.1.0/24============Host address / net working?
+
+192.168.1|00000000
+255.255.255|00000000
+
+192.168.1.0============net address
+192.168.1.1============first host address
+192.168.1.254============last host address
+
+
+
+
+ip address mane holo akta host address
+ip address theke network address ber korte pari
+172.17.10.34===== prothom tinti network address seser ta host addess. net adr a kicu kora jai na. host adr sob kaj korte hoi.
+
+
+
+
+
+192.168.10.0/24 it is network address 
+
+
+get way address: 192.168.10.1=255.255.255.0
+
